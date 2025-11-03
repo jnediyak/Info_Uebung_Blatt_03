@@ -56,7 +56,7 @@ public class H1_main {
 		}
 
 		// Für Testzwecke:
-		//System.out.println(guthaben + ", " + monEingang + ", " + rating + ", " + warnhinweis + ", " + negativ);
+		System.out.println(guthaben + ", " + monEingang + ", " + rating + ", " + warnhinweis + ", " + negativ);
 	}
 
 }

@@ -10,10 +10,10 @@ public class P2_main {
 		
 		d = 0;
 		
-		if(a == b) d++;
-		if(a == b || a == c) d++;
-		if((a + b) >= c) d++;
-		if((a+ b+ c) >= 100) d++;
+		if(a == b) d++; //E1
+		if(a == b || a == c) d++; //E2
+		if((a + b) >= c) d++; //E3
+		if((a+ b+ c) >= 100) d++; //E4
 
 		System.out.println("a: " + a + "; b: " + b + "; c: " + c);
 		System.out.println("d: " + d);

@@ -12,6 +12,7 @@ public class P1_main {
 		if(wuerfel == 1 || wuerfel == 4) System.out.println("Gewonnen!!!");
 		else if(wuerfel == 2) System.out.println("Verloren :(");
 		else if(wuerfel == 5) System.out.println("Unentschieden *_*");
+		else System.out.println("Unklare Lage");
 	}
 
 }
